@@ -36,8 +36,7 @@ Upload a recipe book, ask anything about it, and get accurate answers instantly!
 - **Python**
 - **OpenAI API** (Embeddings + GPT for responses)
 - **PyMuPDF** (for PDF parsing)
-- **FAISS / Similarity Search** (if used)
-- **Streamlit** or **Gradio** (optional for frontend)
+- **FAISS / Similarity Search**
 
 ---
 
